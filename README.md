@@ -44,3 +44,9 @@ Step 3) Make Changes, Commit, and Push. Open your project in VS code. Make chang
 - **Remote:** A repository hosted on a server.
 - **Repository:** A project's version-controlled directory.
 
+
+Sources used
+1) https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+2) https://www.freecodecamp.org/news/introduction-to-git-and-github/
+3) https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+4) Google for definitions
