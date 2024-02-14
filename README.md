@@ -1,4 +1,4 @@
-Hugo Alvarez A02
+###Hugo Alvarez A02
 
 What is Git and a Step by step for GIT
 
@@ -29,17 +29,18 @@ Step 1)Download and Install GitHub Desktop. You can do so from the web or from y
 Step 2) Clone a repository. Click on "File", then "Clone Repository" Select the repository you want to clone from the list or enter the repository URL. Choose the local path for the cloned repository. Click "Clone."
 Step 3) Make Changes, Commit, and Push. Open your project in VS code. Make changes to it as you wish. In github click "Commit to main." After committing changes, click "Push origin" to upload your changes to GitHub.
 
-Glossary
+### Glossary
 
-Branch: A parallel version of a repository that allows you to work on different features or fixes.
-Clone: Create a copy of a repository on your local machine.
-Commit: Record changes to the repository with a descriptive message.
-Fetch: Download changes from a remote repository.
-GIT: A distributed version control system.
-Github: A web-based platform for version control using Git.
-Merge: Combine changes from different branches.
-Merge Conflict: A situation that occurs when Git cannot automatically resolve differences between merged branches.
-Push: Upload local changes to a remote repository.
-Pull: Download changes from a remote repository to your local machine.
-Remote: A repository hosted on a server.
-Repository: A project's version-controlled directory.
+- **Branch:** A parallel version of a repository that allows you to work on different features or fixes.
+- **Clone:** Create a copy of a repository on your local machine.
+- **Commit:** Record changes to the repository with a descriptive message.
+- **Fetch:** Download changes from a remote repository.
+- **GIT:** A distributed version control system.
+- **Github:** A web-based platform for version control using Git.
+- **Merge:** Combine changes from different branches.
+- **Merge Conflict:** A situation that occurs when Git cannot automatically resolve differences between merged branches.
+- **Push:** Upload local changes to a remote repository.
+- **Pull:** Download changes from a remote repository to your local machine.
+- **Remote:** A repository hosted on a server.
+- **Repository:** A project's version-controlled directory.
+
